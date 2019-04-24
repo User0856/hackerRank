@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
